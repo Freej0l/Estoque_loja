@@ -1,0 +1,27 @@
+Meu código possui o intuito de ajudar donos de pequenos negócios a entender mais fácil seu processo de administração e seus lucros
+
+função exibir-painel():
+	Objetivo de mostrar todas as opções para o administrador
+
+função adicionar_produto(): (feito)
+    Objetivo adicionar um produto com (nome, preço, quantidade, tamanho e email do repositor)
+
+função remover_produto(): (feito)
+    Objetivo remover um produto do seu estoque
+
+função receber_informacoes(): (feito)
+    Objetivo receber informações do que está no seu estoque e te mostrar o que está com uma quantidade abaixo do necessário
+
+função reabastecer_estoque():
+    Objetivo reabastecer estoque dos itens que estão abaixo do esperado
+    Enviar um email para o email do fornecedor pedindo mais itens do produto
+
+função alterar_produto():
+    Objetivo alterar valor, produto, nome, preço ou o email do fornecedor
+
+função configurações():
+    Objetivo deixar algo mais moldável para cada um que for usar com o intuito de poder mudar algumas configurações simples
+    exemplo: valor para receber alerta
+
+banco de dados dos produtos
+banco de dados dos lucros e prejuízos (conectado com o matplot.lib para gerar gráficos de lucro e despesas)
