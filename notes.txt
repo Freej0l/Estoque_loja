@@ -16,12 +16,15 @@ função reabastecer_estoque():
     Objetivo reabastecer estoque dos itens que estão abaixo do esperado
     Enviar um email para o email do fornecedor pedindo mais itens do produto
 
-função alterar_produto():
+função alterar_produto(): feito
     Objetivo alterar valor, produto, nome, preço ou o email do fornecedor
 
 função configurações():
     Objetivo deixar algo mais moldável para cada um que for usar com o intuito de poder mudar algumas configurações simples
     exemplo: valor para receber alerta
 
-banco de dados dos produtos
+banco de dados dos produtos feito
 banco de dados dos lucros e prejuízos (conectado com o matplot.lib para gerar gráficos de lucro e despesas)
+
+função vendas():
+    Objetivo atualizar os produtos vendidos de uma loja e retornar para ela o lucro atualizado
