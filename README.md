@@ -30,4 +30,4 @@ Esse projeto foi desenvolvido com o propósito inicial de ajudar comércios que 
 
 1. Clone o repositório para a sua máquina:
    ```bash
-   git clone [https://github.com/Freej0l/Estoque_loja.git](https://github.com/Freej0l/Estoque_loja.git)
+   git clone https://github.com/Freej0l/Estoque_loja.git
